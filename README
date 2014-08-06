@@ -1,4 +1,4 @@
-This is just a simple repo to show how easy it is to serve static web content using spring boot and a groovy one-liner.
+This is just a simple repo to show how easy it is to serve static web content using Spring Boot and a Groovy one-liner.
 
 To run, just execute the following command (Spring Boot CLI must be installed).
 
