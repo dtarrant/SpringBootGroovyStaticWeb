@@ -1,5 +1,5 @@
 This is just a simple repo to show how easy it is to serve static web content using spring boot and a groovy one-liner.
 
-To run, just execute the following command (spring boot cli must be installed).
+To run, just execute the following command (Spring Boot CLI must be installed).
 
 spring run go.groovy
